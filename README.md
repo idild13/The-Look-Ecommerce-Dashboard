@@ -1,4 +1,4 @@
-# 📊 Customer & Marketing Analytics Dashboard (Power BI) for The Look E-commerce
+# 📊 The Look E-commerce - Customer & Marketing Analytics Dashboard (Power BI)
 
 ## 🔹 Problem Statement
 E-commerce businesses rely on both effective marketing and deep customer understanding to grow profitably. Yet, identifying which channels deliver the best ROI, which customer segments are most valuable, and how to reduce churn is a challenge.  
