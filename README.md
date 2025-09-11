@@ -57,10 +57,14 @@ The goal of this project was to analyze *The Look* E-commerce dataset using Powe
 ---
 
 ## 🔹 Dashboard Preview
-(Add screenshots of your customer & marketing dashboards here)
 
-![Customer Dashboard](./screenshots/customer_dashboard.png)  
-![Marketing Performance](./screenshots/marketing_dashboard.png)  
+Here are some key insights from the dashboard:
+
+<img src="screenshots/sales funnel.png" alt="The Sales FUnnel" width="300"/>  <img src="screenshots/scorecard.png" alt="The Sales FUnnel" width="300"/>
+
+<img src="screenshots/category_gender.png" alt="Revenue by Category" width="300"/>  <img src="screenshots/country_user.png" alt="Customer Demographics" width="500"/>
+
+<img src="screenshots/source_event_user.png" alt="Revenue by Category" width="400"/>  <img src="screenshots/traffic source.png" alt="Customer Demographics" width="200"/>
 
 ---
 
@@ -78,8 +82,8 @@ The goal of this project was to analyze *The Look* E-commerce dataset using Powe
 ---
 
 ## 🔹 How to Explore
-- Download the `.pbix` file from this repo and open it in Power BI Desktop.  
-- Or explore the **live dashboard** here: [🔗 Power BI Report](INSERT-YOUR-LINK-HERE)  
+
+Download the `.pbix` file from this repo and open it in Power BI Desktop.  
 
 ---
 
